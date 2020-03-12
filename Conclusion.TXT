@@ -1,0 +1,5 @@
+Conclusion
+
+THe analysis showed that there's indeed a slight difference between Fandango's ratings for popular movies in 2015 and Fandango's ratings for popular movies in 2016. It is also determined that, on average, popular movies released in 2016 were rated lower on Fandango than popular movies released in 2015.
+
+Although it can't be confidently said about what caused the change, the chances are very high that it was caused by Fandango fixing the biased rating system after Hickey's analysis.
